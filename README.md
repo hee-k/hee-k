@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=heek's%20github&fontSize=65&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=heek's%20github&fontSize=50&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62)
 <br>
 
 ### Hi, I'm Heesun Kim :)
