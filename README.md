@@ -28,30 +28,19 @@ Here are some ideas to get you started:
 <br>
 
 #### ✨ Tech
-[![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)]()
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)]()
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 <br>
 
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)]()
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)]()
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 <br>
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)]()
-<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 <br>
 
 #### ✨ Blog & Portfolio
-[![Tech Blog](https://img.shields.io/badge/Blog-92a8d1?style=round-square&logo=blogger&logoColor=white)](https://hee-k.github.io/)
-[![Notion](https://img.shields.io/badge/Portfolio-f7cac9?&style=round-square&logo=notion&logoColor=black)](https://hee-k.notion.site/Portfolio-c81beb9d2c1d4f739d5697f5b806211c?pvs=4)
+[![Tech Blog](https://img.shields.io/badge/Blog-92a8d1?style=flat&logo=blogger&logoColor=white)](https://hee-k.github.io/)
+[![Notion](https://img.shields.io/badge/Portfolio-f7cac9?&style=flat&logo=notion&logoColor=black)](https://hee-k.notion.site/Portfolio-c81beb9d2c1d4f739d5697f5b806211c?pvs=4)
 
 <br>
 
